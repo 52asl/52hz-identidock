@@ -1,6 +1,6 @@
 identidock
 ==========
-Now lests change the future
+
 Simple identicon server based on monsterid from Kevin Gaudin.
-From "Using Docker" by Adrian Mouat published by O'Reilly Media.
-# 52hz-identidock
+
+From "Using Docker" by Adrian Mouat published by O'Reilly media.
