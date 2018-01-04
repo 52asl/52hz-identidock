@@ -9,5 +9,5 @@ COPY cmd.sh /
 EXPOSE 9090 9191
 USER uwsgi
 
-ENTRYPOINT ["/chmod +x cmd.sh"]
+ENTRYPOINT ["sudo chmod +x cmd.sh"]
 CMD ["/cmd.sh"]
